@@ -1,0 +1,7 @@
+1	Better Blaster	200	a middle-grade blaster
+2	Droid oil	5	to keep your droids running smoothly
+3	Blaster	100	a simple blaster
+4	Map of Tatooine	10	for all your travels
+5	Jedi cloak	30	look your best this spring (Jedi only)
+6	Regular cloak	10	look your best this spring
+7	Map of Hoth	10	navigate the ice with confidence
