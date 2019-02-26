@@ -1,0 +1,12 @@
+course instructor semester
+inls523 capra f13
+inls760 capra sp14
+inls509 arguello f13
+inls523 haas f13
+inls523 haas f11
+inls760 capra s13
+inls509 arguello f12
+inls523 boone sp13
+inls760 capra sp11
+inls582 haas f13
+inls512 haas sp13
